@@ -1,0 +1,96 @@
+body{
+    background-image: url(https://cdn.mos.cms.futurecdn.net/7YGJXLyuVdjbn3QjMhdwtA-1680-80.jpg);
+background-repeat: no-repeat;}
+
+.sottosfondo{
+    position:absolute;
+    border-radius:50px;
+    padding-bottom: 120px;
+    background-color: black;
+    opacity: 0.7;
+}
+
+.sopra{
+    text-align: center;
+}
+
+  #sopra1{
+    height:80px;
+    position:relative;
+    left:10px;
+    top:80px;
+} 
+  #sopra2{
+    font-size: xx-large;
+    position:relative;
+    top:46px;
+    left:90px;
+    color:rgb(0, 255,0);
+    opacity:1
+}
+
+#spazio{
+    height:20px;}
+
+
+#barra{
+    position: absolute;
+    height: 35px;
+    width: 1000px;
+    right:130px;
+    background-color: rgb(00, 255, 00);
+    opacity: 1;
+}
+
+.bottoni{
+    padding-left: 400px;
+    padding-bottom: 6px;
+    padding-top:6px;}
+    
+
+.sotto{
+    position:relative;
+    top:40px;
+    left: 150px;
+    color:white
+}
+
+.sc{
+    font-size:small;}
+
+
+
+.stato{
+    position:absolute;
+    border-radius: 20px;
+
+}
+#statocarica1{
+    position:relative;
+    bottom:11px;
+    right:2px;
+    width: 300px;
+    height: 25px;
+    background-color: sandybrown;
+}
+
+#statocarica2{
+    position:relative;
+    bottom:11px;
+    right:2px;
+    width: 550px;
+    height: 25px;
+    background-color: green;
+}
+
+#statocarica3{
+    position:relative;
+    bottom:11px;
+    right:2px;
+    width: 150px;
+    height: 25px;
+    background-color: red;
+}
+
+
+
